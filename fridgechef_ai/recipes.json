@@ -1,0 +1,810 @@
+[
+  {
+    "name": "Tomato & Cheese Omelette",
+    "ingredients": [
+      "egg",
+      "tomato",
+      "cheese",
+      "milk",
+      "butter"
+    ],
+    "optional": [
+      "salt",
+      "pepper",
+      "parsley"
+    ],
+    "steps": [
+      "Whisk eggs with a splash of milk.",
+      "Dice tomato and grate cheese.",
+      "Melt butter in a pan, add eggs and cook gently.",
+      "Add tomato and cheese, fold and serve."
+    ],
+    "minutes": 12,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A quick, cheesy breakfast or dinner."
+  },
+  {
+    "name": "Creamy Mushroom Pasta",
+    "ingredients": [
+      "pasta",
+      "mushroom",
+      "cream",
+      "garlic",
+      "parmesan"
+    ],
+    "optional": [
+      "olive oil",
+      "pepper",
+      "parsley"
+    ],
+    "steps": [
+      "Cook pasta according to the package.",
+      "Sauté chopped mushrooms and garlic.",
+      "Stir in cream and parmesan.",
+      "Toss with pasta and serve."
+    ],
+    "minutes": 22,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "Comforting pasta with a creamy mushroom sauce."
+  },
+  {
+    "name": "Tomato Basil Pasta",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "garlic",
+      "olive oil",
+      "basil"
+    ],
+    "optional": [
+      "parmesan",
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta until al dente.",
+      "Cook garlic in olive oil briefly.",
+      "Add chopped tomatoes and simmer for 10 minutes.",
+      "Mix with pasta and basil."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "description": "A classic pantry-friendly Italian meal."
+  },
+  {
+    "name": "Chicken & Vegetable Stir-Fry",
+    "ingredients": [
+      "chicken",
+      "bell pepper",
+      "carrot",
+      "onion",
+      "soy sauce",
+      "rice"
+    ],
+    "optional": [
+      "garlic",
+      "ginger",
+      "oil"
+    ],
+    "steps": [
+      "Cook rice.",
+      "Slice chicken and vegetables.",
+      "Cook chicken thoroughly in a hot pan.",
+      "Add vegetables and stir-fry until tender.",
+      "Add soy sauce and serve over rice."
+    ],
+    "minutes": 30,
+    "tags": [
+      "dairy-free"
+    ],
+    "description": "A flexible weeknight stir-fry."
+  },
+  {
+    "name": "Vegetable Fried Rice",
+    "ingredients": [
+      "rice",
+      "egg",
+      "carrot",
+      "peas",
+      "soy sauce",
+      "onion"
+    ],
+    "optional": [
+      "garlic",
+      "oil",
+      "spring onion"
+    ],
+    "steps": [
+      "Use cooked, cooled rice.",
+      "Sauté chopped onion, carrot and peas.",
+      "Push vegetables aside and scramble eggs.",
+      "Add rice and soy sauce; heat thoroughly."
+    ],
+    "minutes": 18,
+    "tags": [
+      "vegetarian",
+      "dairy-free"
+    ],
+    "description": "A great way to use leftover rice."
+  },
+  {
+    "name": "Chickpea Tomato Curry",
+    "ingredients": [
+      "chickpea",
+      "tomato",
+      "onion",
+      "coconut milk",
+      "curry powder"
+    ],
+    "optional": [
+      "garlic",
+      "rice",
+      "spinach"
+    ],
+    "steps": [
+      "Sauté onion until soft.",
+      "Add curry powder and chopped tomato.",
+      "Add chickpeas and coconut milk.",
+      "Simmer for 15 minutes; add spinach if available."
+    ],
+    "minutes": 28,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "description": "A cozy plant-based curry."
+  },
+  {
+    "name": "Greek-Style Salad",
+    "ingredients": [
+      "cucumber",
+      "tomato",
+      "feta",
+      "red onion",
+      "olive"
+    ],
+    "optional": [
+      "olive oil",
+      "lemon",
+      "oregano"
+    ],
+    "steps": [
+      "Chop cucumber, tomatoes and onion.",
+      "Add feta and olives.",
+      "Dress with olive oil and lemon if available.",
+      "Toss gently and serve."
+    ],
+    "minutes": 10,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A fresh no-cook meal."
+  },
+  {
+    "name": "Avocado Egg Toast",
+    "ingredients": [
+      "bread",
+      "avocado",
+      "egg",
+      "lemon"
+    ],
+    "optional": [
+      "salt",
+      "pepper",
+      "chili flakes"
+    ],
+    "steps": [
+      "Toast bread.",
+      "Mash avocado with a squeeze of lemon.",
+      "Cook eggs to your preference.",
+      "Spread avocado on toast and add eggs."
+    ],
+    "minutes": 10,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "A satisfying breakfast or snack."
+  },
+  {
+    "name": "Spinach & Feta Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "spinach",
+      "feta",
+      "cheese"
+    ],
+    "optional": [
+      "olive oil",
+      "onion"
+    ],
+    "steps": [
+      "Wilt spinach in a pan.",
+      "Spread spinach and cheeses over half a tortilla.",
+      "Fold and toast on both sides until cheese melts.",
+      "Cut into wedges."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "Crispy tortillas with a savory filling."
+  },
+  {
+    "name": "Baked Potato with Broccoli & Cheese",
+    "ingredients": [
+      "potato",
+      "broccoli",
+      "cheese",
+      "butter"
+    ],
+    "optional": [
+      "yogurt",
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Bake or microwave potatoes until tender.",
+      "Steam broccoli.",
+      "Split potatoes and add butter.",
+      "Top with broccoli and grated cheese; melt briefly."
+    ],
+    "minutes": 35,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A hearty and economical dinner."
+  },
+  {
+    "name": "Lentil Soup",
+    "ingredients": [
+      "lentil",
+      "carrot",
+      "onion",
+      "celery",
+      "tomato"
+    ],
+    "optional": [
+      "garlic",
+      "vegetable stock",
+      "olive oil"
+    ],
+    "steps": [
+      "Sauté chopped onion, carrot and celery.",
+      "Add lentils, tomato and enough water or stock.",
+      "Simmer until lentils are fully tender.",
+      "Season and serve."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "description": "A filling, budget-friendly soup."
+  },
+  {
+    "name": "Tuna Pasta Salad",
+    "ingredients": [
+      "pasta",
+      "tuna",
+      "tomato",
+      "cucumber",
+      "lemon"
+    ],
+    "optional": [
+      "olive oil",
+      "corn",
+      "parsley"
+    ],
+    "steps": [
+      "Cook pasta and cool it.",
+      "Drain tuna and chop vegetables.",
+      "Combine everything and dress with lemon.",
+      "Chill or serve immediately."
+    ],
+    "minutes": 20,
+    "tags": [
+      "dairy-free"
+    ],
+    "description": "A quick lunch that travels well."
+  },
+  {
+    "name": "Banana Oat Pancakes",
+    "ingredients": [
+      "banana",
+      "oats",
+      "egg",
+      "milk"
+    ],
+    "optional": [
+      "cinnamon",
+      "honey",
+      "butter"
+    ],
+    "steps": [
+      "Blend banana, oats, egg and milk into a batter.",
+      "Heat a nonstick pan.",
+      "Cook small pancakes until set on both sides.",
+      "Serve warm."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "Naturally sweet breakfast pancakes; use certified gluten-free oats if needed."
+  },
+  {
+    "name": "Shakshuka",
+    "ingredients": [
+      "egg",
+      "tomato",
+      "bell pepper",
+      "onion",
+      "paprika"
+    ],
+    "optional": [
+      "garlic",
+      "olive oil",
+      "bread"
+    ],
+    "steps": [
+      "Sauté onion and bell pepper.",
+      "Add tomato and paprika; simmer until saucy.",
+      "Make wells and crack eggs in.",
+      "Cover and cook until the eggs are set."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "description": "Eggs simmered in a flavorful tomato sauce."
+  },
+  {
+    "name": "Bean & Corn Burrito Bowl",
+    "ingredients": [
+      "rice",
+      "black bean",
+      "corn",
+      "tomato",
+      "avocado"
+    ],
+    "optional": [
+      "lime",
+      "cilantro",
+      "lettuce"
+    ],
+    "steps": [
+      "Cook rice.",
+      "Warm beans and corn thoroughly.",
+      "Dice tomato and avocado.",
+      "Build bowls with rice, beans and vegetables."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "description": "An easy, colorful bowl."
+  },
+  {
+    "name": "Roasted Vegetable Traybake",
+    "ingredients": [
+      "potato",
+      "carrot",
+      "zucchini",
+      "onion",
+      "olive oil"
+    ],
+    "optional": [
+      "thyme",
+      "garlic",
+      "pepper"
+    ],
+    "steps": [
+      "Heat oven to 200°C.",
+      "Cut vegetables into similar-size pieces.",
+      "Coat with olive oil and season.",
+      "Roast for 30–40 minutes until tender."
+    ],
+    "minutes": 45,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "description": "Uses up assorted vegetables."
+  },
+  {
+    "name": "Chicken & Rice Soup",
+    "ingredients": [
+      "chicken",
+      "rice",
+      "carrot",
+      "onion",
+      "chicken stock"
+    ],
+    "optional": [
+      "celery",
+      "parsley",
+      "lemon"
+    ],
+    "steps": [
+      "Cook onion and carrot in a pot.",
+      "Add stock, rice and chicken.",
+      "Simmer until rice is tender and chicken is fully cooked.",
+      "Shred chicken and return to soup."
+    ],
+    "minutes": 40,
+    "tags": [
+      "gluten-free",
+      "dairy-free"
+    ],
+    "description": "Simple and comforting."
+  },
+  {
+    "name": "Caprese Sandwich",
+    "ingredients": [
+      "bread",
+      "mozzarella",
+      "tomato",
+      "basil"
+    ],
+    "optional": [
+      "olive oil",
+      "balsamic vinegar"
+    ],
+    "steps": [
+      "Slice bread, mozzarella and tomato.",
+      "Layer cheese, tomato and basil.",
+      "Drizzle with olive oil if desired.",
+      "Close sandwich and serve."
+    ],
+    "minutes": 8,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "Fresh Italian-inspired sandwich."
+  },
+  {
+    "name": "Garlic Butter Mushrooms on Toast",
+    "ingredients": [
+      "mushroom",
+      "bread",
+      "garlic",
+      "butter"
+    ],
+    "optional": [
+      "parsley",
+      "cream",
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread.",
+      "Sauté sliced mushrooms in butter.",
+      "Add minced garlic and cook briefly.",
+      "Spoon mushrooms onto toast."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "Fast and savory."
+  },
+  {
+    "name": "Peanut Noodles",
+    "ingredients": [
+      "noodles",
+      "peanut butter",
+      "soy sauce",
+      "carrot",
+      "lime"
+    ],
+    "optional": [
+      "garlic",
+      "ginger",
+      "cucumber"
+    ],
+    "steps": [
+      "Cook noodles.",
+      "Whisk peanut butter, soy sauce and lime juice with a little water.",
+      "Shred carrot.",
+      "Toss noodles with sauce and vegetables."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "Creamy, tangy noodles with crunch."
+  },
+  {
+    "name": "Scrambled Eggs",
+    "ingredients": [
+      "egg",
+      "butter"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Beat eggs.",
+      "Melt butter on low heat.",
+      "Stir eggs gently until softly set."
+    ],
+    "minutes": 8,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "Simple, satisfying eggs."
+  },
+  {
+    "name": "Tomato Garlic Pasta",
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "garlic",
+      "olive oil"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta.",
+      "Warm garlic in oil.",
+      "Add diced tomato and simmer.",
+      "Toss with pasta."
+    ],
+    "minutes": 18,
+    "tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "An easy four-ingredient pasta."
+  },
+  {
+    "name": "Cheese Toast",
+    "ingredients": [
+      "bread",
+      "cheese"
+    ],
+    "optional": [
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread.",
+      "Add cheese and grill until melted."
+    ],
+    "minutes": 7,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "Fast melted-cheese toast."
+  },
+  {
+    "name": "Garlic Pasta",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "olive oil"
+    ],
+    "optional": [
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta and reserve a little cooking water.",
+      "Gently warm garlic in oil.",
+      "Toss pasta with oil and a splash of cooking water."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "description": "Pantry-friendly garlic pasta."
+  },
+  {
+    "name": "Tomato Cucumber Salad",
+    "ingredients": [
+      "tomato",
+      "cucumber",
+      "olive oil"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Chop tomatoes and cucumbers.",
+      "Toss with olive oil and season."
+    ],
+    "minutes": 8,
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "description": "Fresh, quick salad."
+  },
+  {
+    "name": "Egg Fried Rice",
+    "ingredients": [
+      "rice",
+      "egg",
+      "soy sauce"
+    ],
+    "optional": [
+      "spring onion"
+    ],
+    "steps": [
+      "Use previously cooked, safely chilled rice.",
+      "Scramble egg in a pan.",
+      "Add rice and heat thoroughly.",
+      "Season with soy sauce."
+    ],
+    "minutes": 15,
+    "tags": [
+      "dairy-free"
+    ],
+    "description": "Quick rice and eggs."
+  },
+  {
+    "name": "Banana Oat Bowl",
+    "ingredients": [
+      "banana",
+      "oats",
+      "milk"
+    ],
+    "optional": [
+      "cinnamon"
+    ],
+    "steps": [
+      "Warm oats with milk.",
+      "Top with sliced banana."
+    ],
+    "minutes": 8,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "Simple breakfast bowl."
+  },
+  {
+    "name": "Roasted Potatoes",
+    "ingredients": [
+      "potato",
+      "olive oil"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cut potatoes into small pieces.",
+      "Toss in oil.",
+      "Roast at 200°C until tender and golden, around 30–35 minutes."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "description": "Crispy potato wedges."
+  },
+  {
+    "name": "Tuna Sandwich",
+    "ingredients": [
+      "bread",
+      "tuna"
+    ],
+    "optional": [
+      "lemon",
+      "pepper"
+    ],
+    "steps": [
+      "Drain tuna.",
+      "Flake tuna onto bread.",
+      "Add any optional seasoning and close the sandwich."
+    ],
+    "minutes": 8,
+    "tags": [
+      "dairy-free"
+    ],
+    "description": "Quick sandwich with tuna."
+  },
+  {
+    "name": "Mushroom Omelette",
+    "ingredients": [
+      "egg",
+      "mushroom",
+      "butter"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Sauté chopped mushrooms in butter.",
+      "Beat eggs and pour into pan.",
+      "Cook until set, then fold."
+    ],
+    "minutes": 12,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "Simple mushroom omelette."
+  },
+  {
+    "name": "Chickpea Tomato Salad",
+    "ingredients": [
+      "chickpea",
+      "tomato",
+      "olive oil"
+    ],
+    "optional": [
+      "lemon",
+      "salt"
+    ],
+    "steps": [
+      "Rinse cooked chickpeas.",
+      "Chop tomato.",
+      "Toss with oil and optional lemon."
+    ],
+    "minutes": 10,
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "description": "Protein-rich salad."
+  },
+  {
+    "name": "Tomato Egg Skillet",
+    "ingredients": [
+      "tomato",
+      "egg",
+      "olive oil"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook chopped tomato in olive oil.",
+      "Crack in the eggs.",
+      "Cover until the eggs are fully cooked."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "Easy tomato and egg skillet."
+  }
+]
