@@ -43,6 +43,21 @@ if 'saved' not in st.session_state:
 if 'generated' not in st.session_state:
     st.session_state.generated = None
 
+def choose_example(fridge_text, avoid_text=''):
+    """Called before Streamlit renders the bound text input widgets."""
+    st.session_state.fridge = fridge_text
+    st.session_state.avoid = avoid_text
+    st.session_state.searched = True
+    st.session_state.generated = None
+
+
+def clear_inputs():
+    st.session_state.fridge = ''
+    st.session_state.avoid = ''
+    st.session_state.searched = False
+    st.session_state.generated = None
+
+
 all_recipes = load_recipes()
 
 st.markdown(
@@ -65,21 +80,12 @@ with st.sidebar:
     priority = st.selectbox('Sort results by', ['Closest match', 'Use more of my ingredients', 'Fastest cooking'])
     st.divider()
     st.markdown('**Quick examples**')
-    if st.button('🍳 Breakfast', use_container_width=True):
-        st.session_state.fridge = 'egg, bread, tomato, cheese, milk, butter'
-        st.session_state.avoid = ''
-        st.session_state.searched = True
-        st.rerun()
-    if st.button('🍝 Pasta night', use_container_width=True):
-        st.session_state.fridge = 'pasta, tomato, garlic, parmesan, olive oil, basil'
-        st.session_state.avoid = ''
-        st.session_state.searched = True
-        st.rerun()
-    if st.button('🥗 Vegetarian', use_container_width=True):
-        st.session_state.fridge = 'chickpea, tomato, cucumber, feta, red onion, olive oil'
-        st.session_state.avoid = 'chicken, beef'
-        st.session_state.searched = True
-        st.rerun()
+    st.button('🍳 Breakfast', use_container_width=True, on_click=choose_example,
+              args=('egg, bread, tomato, cheese, milk, butter',))
+    st.button('🍝 Pasta night', use_container_width=True, on_click=choose_example,
+              args=('pasta, tomato, garlic, parmesan, olive oil, basil',))
+    st.button('🥗 Vegetarian', use_container_width=True, on_click=choose_example,
+              args=('chickpea, tomato, cucumber, feta, red onion, olive oil', 'chicken, beef'))
     st.divider()
     st.caption('Recipe search works offline. Optional recipe generation uses Ollama running locally on your computer.')
 
@@ -99,18 +105,10 @@ with col_a:
         if st.button('✨ Find my recipes', type='primary', use_container_width=True):
             st.session_state.searched = True
     with btn2:
-        if st.button('🔄 Try example', use_container_width=True):
-            st.session_state.fridge = 'pasta, tomato, garlic, mushroom, olive oil, parmesan'
-            st.session_state.avoid = ''
-            st.session_state.searched = True
-            st.rerun()
+        st.button('🔄 Try example', use_container_width=True, on_click=choose_example,
+                  args=('pasta, tomato, garlic, mushroom, olive oil, parmesan',))
     with btn3:
-        if st.button('🧹 Clear', use_container_width=True):
-            st.session_state.fridge = ''
-            st.session_state.avoid = ''
-            st.session_state.searched = False
-            st.session_state.generated = None
-            st.rerun()
+        st.button('🧹 Clear', use_container_width=True, on_click=clear_inputs)
 
 with col_b:
     st.markdown('<div class="soft-card">', unsafe_allow_html=True)
@@ -243,9 +241,21 @@ with create_tab:
     with st.expander('Local AI setup (one-time)', expanded=False):
         st.code('brew install --cask ollama\nollama pull llama3.2:3b\nollama serve', language='bash')
         st.caption('If you installed the Ollama app, it may already be running in the background.')
-    model_name = st.text_input('Ollama model name', value='llama3.2:3b')
+    import os
+    try:
+        api_key = st.secrets.get('OPENAI_API_KEY', os.environ.get('OPENAI_API_KEY', ''))
+    except (FileNotFoundError, KeyError):
+        api_key = os.environ.get('OPENAI_API_KEY', '')
+    if api_key:
+        st.success('Cloud AI is configured. Visitors can generate recipes online.')
+        model_name = 'gpt-4o-mini'
+        use_cloud = True
+    else:
+        st.info('Cloud AI is not connected yet. On your Mac, Ollama still works. To enable generation for website visitors, add OPENAI_API_KEY in your Streamlit Cloud app secrets.')
+        use_cloud = False
+        model_name = st.text_input('Local Ollama model name', value='llama3.2:3b')
     if st.button('🪄 Generate my recipe', type='primary'):
-        with st.spinner('Creating a recipe with your local AI model...'):
+        with st.spinner('Creating your recipe...'):
             try:
                 st.session_state.generated = generate_recipe(
                     st.session_state.fridge,
@@ -253,6 +263,7 @@ with create_tab:
                     avoid=st.session_state.avoid,
                     minutes=max_minutes,
                     model=model_name,
+                    api_key=api_key if use_cloud else None,
                 )
             except RecipeGenerationError as err:
                 st.session_state.generated = None

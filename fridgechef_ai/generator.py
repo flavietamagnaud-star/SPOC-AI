@@ -14,7 +14,7 @@ class RecipeGenerationError(Exception):
     pass
 
 
-def generate_recipe(ingredients, diet='Any', avoid='', minutes=30, model='llama3.2:3b'):
+def generate_recipe(ingredients, diet='Any', avoid='', minutes=30, model='llama3.2:3b', api_key=None):
     available = parse_ingredients(ingredients)
     excluded = parse_ingredients(avoid)
     if not available:
@@ -33,17 +33,48 @@ def generate_recipe(ingredients, diet='Any', avoid='', minutes=30, model='llama3
               'ingredients (array of strings), steps (array of strings), tips (string).')
     user = json.dumps({'available_ingredients':available, 'avoid':excluded,
                        'diet':diet_rule, 'maximum_minutes':int(minutes)},ensure_ascii=False)
-    body = {'model':model,'system':system,'prompt':user,'stream':False,
-            'format':'json','options':{'temperature':0.4,'num_predict':650}}
-    data = json.dumps(body).encode('utf-8')
-    req = urllib.request.Request(OLLAMA_URL,data=data,headers={'Content-Type':'application/json'},method='POST')
+    if api_key:
+        body = {
+            'model': model,
+            'messages': [
+                {'role': 'system', 'content': system},
+                {'role': 'user', 'content': user},
+            ],
+            'response_format': {'type': 'json_object'},
+        }
+        req = urllib.request.Request(
+            'https://api.openai.com/v1/chat/completions',
+            data=json.dumps(body).encode('utf-8'),
+            headers={'Content-Type': 'application/json',
+                     'Authorization': 'Bearer ' + api_key},
+            method='POST',
+        )
+    else:
+        body = {'model': model, 'system': system, 'prompt': user,
+                'stream': False, 'format': 'json',
+                'options': {'temperature': 0.4, 'num_predict': 650}}
+        req = urllib.request.Request(
+            OLLAMA_URL,
+            data=json.dumps(body).encode('utf-8'),
+            headers={'Content-Type': 'application/json'},
+            method='POST',
+        )
     try:
-        with urllib.request.urlopen(req,timeout=100) as resp:
+        with urllib.request.urlopen(req, timeout=100) as resp:
             response = json.load(resp)
-    except (urllib.error.URLError,TimeoutError,OSError) as exc:
+        generated_text = response['choices'][0]['message']['content'] if api_key else response['response']
+    except urllib.error.HTTPError as exc:
+        if api_key:
+            raise RecipeGenerationError('Cloud AI request failed (HTTP ' + str(exc.code) + '). Check that your API key is valid and your API account has available credits.') from exc
+        raise RecipeGenerationError('Local Ollama request failed (HTTP ' + str(exc.code) + '). Check the model name.') from exc
+    except (urllib.error.URLError, TimeoutError, OSError) as exc:
+        if api_key:
+            raise RecipeGenerationError('Unable to connect to the cloud AI service. Please try again.') from exc
         raise RecipeGenerationError('Could not reach Ollama. Make sure Ollama is installed, running, and the model has been downloaded.') from exc
+    except (KeyError, IndexError, TypeError) as exc:
+        raise RecipeGenerationError('AI response was not in the expected format. Please try again.') from exc
     try:
-        result = json.loads(response['response'])
+        result = json.loads(generated_text)
         if not isinstance(result,dict): raise ValueError('Expected an object')
         name = str(result['name']).strip()
         description = str(result.get('description','')).strip()
