@@ -87,7 +87,7 @@ with st.sidebar:
     st.button('🥗 Vegetarian', use_container_width=True, on_click=choose_example,
               args=('chickpea, tomato, cucumber, feta, red onion, olive oil', 'chicken, beef'))
     st.divider()
-    st.caption('Recipe search works offline. Optional recipe generation uses Ollama running locally on your computer.')
+    st.caption('Recipe search works without an API key. AI recipe generation requires a cloud API key on this published app.')
 
 col_a, col_b = st.columns([1.7, 1])
 with col_a:
@@ -237,37 +237,32 @@ with find_tab:
 
 with create_tab:
     st.subheader('🧠 Generate a brand-new recipe')
-    st.write('This creates a new recipe from your ingredients using a local AI model through Ollama. If you prefer, you can continue using the normal recipe finder above.')
-    with st.expander('Local AI setup (one-time)', expanded=False):
-        st.code('brew install --cask ollama\nollama pull llama3.2:3b\nollama serve', language='bash')
-        st.caption('If you installed the Ollama app, it may already be running in the background.')
+    st.write('Create a personalized recipe with an online AI model. Your available ingredients and preferences are used to build the recipe.')
     import os
     try:
         api_key = st.secrets.get('OPENAI_API_KEY', os.environ.get('OPENAI_API_KEY', ''))
     except (FileNotFoundError, KeyError):
         api_key = os.environ.get('OPENAI_API_KEY', '')
+    api_key = str(api_key).strip()
     if api_key:
-        st.success('Cloud AI is configured. Visitors can generate recipes online.')
-        model_name = 'gpt-4o-mini'
-        use_cloud = True
+        st.success('AI recipe generation is connected and ready to use.')
+        if st.button('🪄 Generate my recipe', type='primary', key='generate_cloud'):
+            st.session_state.generated = None
+            with st.spinner('Creating your recipe...'):
+                try:
+                    st.session_state.generated = generate_recipe(
+                        st.session_state.fridge,
+                        diet=diet,
+                        avoid=st.session_state.avoid,
+                        minutes=max_minutes,
+                        model='gpt-4o-mini',
+                        api_key=api_key,
+                    )
+                except RecipeGenerationError as err:
+                    st.error(str(err))
     else:
-        st.info('Cloud AI is not connected yet. On your Mac, Ollama still works. To enable generation for website visitors, add OPENAI_API_KEY in your Streamlit Cloud app secrets.')
-        use_cloud = False
-        model_name = st.text_input('Local Ollama model name', value='llama3.2:3b')
-    if st.button('🪄 Generate my recipe', type='primary'):
-        with st.spinner('Creating your recipe...'):
-            try:
-                st.session_state.generated = generate_recipe(
-                    st.session_state.fridge,
-                    diet=diet,
-                    avoid=st.session_state.avoid,
-                    minutes=max_minutes,
-                    model=model_name,
-                    api_key=api_key if use_cloud else None,
-                )
-            except RecipeGenerationError as err:
-                st.session_state.generated = None
-                st.error(str(err))
+        st.warning('Online AI is not configured. The recipe finder still works, but generating new recipes requires an API key in Streamlit Cloud → App settings → Secrets.')
+        st.button('🪄 Generate my recipe', disabled=True, key='generate_cloud_disabled')
 
     if st.session_state.generated:
         generated = st.session_state.generated
