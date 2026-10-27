@@ -806,5 +806,2989 @@
       "gluten-free"
     ],
     "description": "Easy tomato and egg skillet."
+  },
+  {
+    "name": "Mushroom Garlic Pasta",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "olive oil",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta according to the package.",
+      "Sauté the diced vegetable with garlic in olive oil until tender.",
+      "Toss with drained pasta and serve hot."
+    ],
+    "minutes": 22,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple garlic pasta featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Garlic Pasta",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "olive oil",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta according to the package.",
+      "Sauté the diced vegetable with garlic in olive oil until tender.",
+      "Toss with drained pasta and serve hot."
+    ],
+    "minutes": 22,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple garlic pasta featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Garlic Pasta",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "olive oil",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta according to the package.",
+      "Sauté the diced vegetable with garlic in olive oil until tender.",
+      "Toss with drained pasta and serve hot."
+    ],
+    "minutes": 22,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple garlic pasta featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Garlic Pasta",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "olive oil",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta according to the package.",
+      "Sauté the diced vegetable with garlic in olive oil until tender.",
+      "Toss with drained pasta and serve hot."
+    ],
+    "minutes": 22,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple garlic pasta featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Garlic Pasta",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "olive oil",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta according to the package.",
+      "Sauté the diced vegetable with garlic in olive oil until tender.",
+      "Toss with drained pasta and serve hot."
+    ],
+    "minutes": 22,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple garlic pasta featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Garlic Pasta",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "olive oil",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta according to the package.",
+      "Sauté the diced vegetable with garlic in olive oil until tender.",
+      "Toss with drained pasta and serve hot."
+    ],
+    "minutes": 22,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple garlic pasta featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Garlic Pasta",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "olive oil",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta according to the package.",
+      "Sauté the diced vegetable with garlic in olive oil until tender.",
+      "Toss with drained pasta and serve hot."
+    ],
+    "minutes": 22,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple garlic pasta featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Garlic Pasta",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "olive oil",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta according to the package.",
+      "Sauté the diced vegetable with garlic in olive oil until tender.",
+      "Toss with drained pasta and serve hot."
+    ],
+    "minutes": 22,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple garlic pasta featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Garlic Pasta",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "olive oil",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook pasta according to the package.",
+      "Sauté the diced vegetable with garlic in olive oil until tender.",
+      "Toss with drained pasta and serve hot."
+    ],
+    "minutes": 22,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple garlic pasta featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Mushroom Warm Rice Bowl",
+    "ingredients": [
+      "rice",
+      "onion",
+      "oil",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook rice until tender.",
+      "Cook the chopped vegetable and onion in oil until softened.",
+      "Serve the vegetables over rice."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple warm rice bowl featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Warm Rice Bowl",
+    "ingredients": [
+      "rice",
+      "onion",
+      "oil",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook rice until tender.",
+      "Cook the chopped vegetable and onion in oil until softened.",
+      "Serve the vegetables over rice."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple warm rice bowl featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Warm Rice Bowl",
+    "ingredients": [
+      "rice",
+      "onion",
+      "oil",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook rice until tender.",
+      "Cook the chopped vegetable and onion in oil until softened.",
+      "Serve the vegetables over rice."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple warm rice bowl featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Tomato Warm Rice Bowl",
+    "ingredients": [
+      "rice",
+      "onion",
+      "oil",
+      "tomato"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook rice until tender.",
+      "Cook the chopped vegetable and onion in oil until softened.",
+      "Serve the vegetables over rice."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple warm rice bowl featuring tomato. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Warm Rice Bowl",
+    "ingredients": [
+      "rice",
+      "onion",
+      "oil",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook rice until tender.",
+      "Cook the chopped vegetable and onion in oil until softened.",
+      "Serve the vegetables over rice."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple warm rice bowl featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Warm Rice Bowl",
+    "ingredients": [
+      "rice",
+      "onion",
+      "oil",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook rice until tender.",
+      "Cook the chopped vegetable and onion in oil until softened.",
+      "Serve the vegetables over rice."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple warm rice bowl featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Warm Rice Bowl",
+    "ingredients": [
+      "rice",
+      "onion",
+      "oil",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook rice until tender.",
+      "Cook the chopped vegetable and onion in oil until softened.",
+      "Serve the vegetables over rice."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple warm rice bowl featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Warm Rice Bowl",
+    "ingredients": [
+      "rice",
+      "onion",
+      "oil",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook rice until tender.",
+      "Cook the chopped vegetable and onion in oil until softened.",
+      "Serve the vegetables over rice."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple warm rice bowl featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Warm Rice Bowl",
+    "ingredients": [
+      "rice",
+      "onion",
+      "oil",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook rice until tender.",
+      "Cook the chopped vegetable and onion in oil until softened.",
+      "Serve the vegetables over rice."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple warm rice bowl featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Warm Rice Bowl",
+    "ingredients": [
+      "rice",
+      "onion",
+      "oil",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook rice until tender.",
+      "Cook the chopped vegetable and onion in oil until softened.",
+      "Serve the vegetables over rice."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple warm rice bowl featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Mushroom Sheet-Pan Vegetables",
+    "ingredients": [
+      "potato",
+      "olive oil",
+      "garlic",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (390°F).",
+      "Dice the potato and vegetable into similar-sized pieces.",
+      "Coat with olive oil and garlic and roast until tender, turning halfway."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple sheet-pan vegetables featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Sheet-Pan Vegetables",
+    "ingredients": [
+      "potato",
+      "olive oil",
+      "garlic",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (390°F).",
+      "Dice the potato and vegetable into similar-sized pieces.",
+      "Coat with olive oil and garlic and roast until tender, turning halfway."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple sheet-pan vegetables featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Sheet-Pan Vegetables",
+    "ingredients": [
+      "potato",
+      "olive oil",
+      "garlic",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (390°F).",
+      "Dice the potato and vegetable into similar-sized pieces.",
+      "Coat with olive oil and garlic and roast until tender, turning halfway."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple sheet-pan vegetables featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Tomato Sheet-Pan Vegetables",
+    "ingredients": [
+      "potato",
+      "olive oil",
+      "garlic",
+      "tomato"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (390°F).",
+      "Dice the potato and vegetable into similar-sized pieces.",
+      "Coat with olive oil and garlic and roast until tender, turning halfway."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple sheet-pan vegetables featuring tomato. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Sheet-Pan Vegetables",
+    "ingredients": [
+      "potato",
+      "olive oil",
+      "garlic",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (390°F).",
+      "Dice the potato and vegetable into similar-sized pieces.",
+      "Coat with olive oil and garlic and roast until tender, turning halfway."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple sheet-pan vegetables featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Sheet-Pan Vegetables",
+    "ingredients": [
+      "potato",
+      "olive oil",
+      "garlic",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (390°F).",
+      "Dice the potato and vegetable into similar-sized pieces.",
+      "Coat with olive oil and garlic and roast until tender, turning halfway."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple sheet-pan vegetables featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Sheet-Pan Vegetables",
+    "ingredients": [
+      "potato",
+      "olive oil",
+      "garlic",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (390°F).",
+      "Dice the potato and vegetable into similar-sized pieces.",
+      "Coat with olive oil and garlic and roast until tender, turning halfway."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple sheet-pan vegetables featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Sheet-Pan Vegetables",
+    "ingredients": [
+      "potato",
+      "olive oil",
+      "garlic",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (390°F).",
+      "Dice the potato and vegetable into similar-sized pieces.",
+      "Coat with olive oil and garlic and roast until tender, turning halfway."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple sheet-pan vegetables featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Sheet-Pan Vegetables",
+    "ingredients": [
+      "potato",
+      "olive oil",
+      "garlic",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (390°F).",
+      "Dice the potato and vegetable into similar-sized pieces.",
+      "Coat with olive oil and garlic and roast until tender, turning halfway."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple sheet-pan vegetables featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Sheet-Pan Vegetables",
+    "ingredients": [
+      "potato",
+      "olive oil",
+      "garlic",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C (390°F).",
+      "Dice the potato and vegetable into similar-sized pieces.",
+      "Coat with olive oil and garlic and roast until tender, turning halfway."
+    ],
+    "minutes": 40,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple sheet-pan vegetables featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Mushroom Quick Vegetable Soup",
+    "ingredients": [
+      "vegetable stock",
+      "onion",
+      "potato",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat vegetable stock in a pot.",
+      "Add chopped potato, onion, and the vegetable.",
+      "Simmer until all vegetables are tender; season to taste."
+    ],
+    "minutes": 35,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple quick vegetable soup featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Quick Vegetable Soup",
+    "ingredients": [
+      "vegetable stock",
+      "onion",
+      "potato",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat vegetable stock in a pot.",
+      "Add chopped potato, onion, and the vegetable.",
+      "Simmer until all vegetables are tender; season to taste."
+    ],
+    "minutes": 35,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple quick vegetable soup featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Quick Vegetable Soup",
+    "ingredients": [
+      "vegetable stock",
+      "onion",
+      "potato",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat vegetable stock in a pot.",
+      "Add chopped potato, onion, and the vegetable.",
+      "Simmer until all vegetables are tender; season to taste."
+    ],
+    "minutes": 35,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple quick vegetable soup featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Tomato Quick Vegetable Soup",
+    "ingredients": [
+      "vegetable stock",
+      "onion",
+      "potato",
+      "tomato"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat vegetable stock in a pot.",
+      "Add chopped potato, onion, and the vegetable.",
+      "Simmer until all vegetables are tender; season to taste."
+    ],
+    "minutes": 35,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple quick vegetable soup featuring tomato. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Quick Vegetable Soup",
+    "ingredients": [
+      "vegetable stock",
+      "onion",
+      "potato",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat vegetable stock in a pot.",
+      "Add chopped potato, onion, and the vegetable.",
+      "Simmer until all vegetables are tender; season to taste."
+    ],
+    "minutes": 35,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple quick vegetable soup featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Quick Vegetable Soup",
+    "ingredients": [
+      "vegetable stock",
+      "onion",
+      "potato",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat vegetable stock in a pot.",
+      "Add chopped potato, onion, and the vegetable.",
+      "Simmer until all vegetables are tender; season to taste."
+    ],
+    "minutes": 35,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple quick vegetable soup featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Quick Vegetable Soup",
+    "ingredients": [
+      "vegetable stock",
+      "onion",
+      "potato",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat vegetable stock in a pot.",
+      "Add chopped potato, onion, and the vegetable.",
+      "Simmer until all vegetables are tender; season to taste."
+    ],
+    "minutes": 35,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple quick vegetable soup featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Quick Vegetable Soup",
+    "ingredients": [
+      "vegetable stock",
+      "onion",
+      "potato",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat vegetable stock in a pot.",
+      "Add chopped potato, onion, and the vegetable.",
+      "Simmer until all vegetables are tender; season to taste."
+    ],
+    "minutes": 35,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple quick vegetable soup featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Quick Vegetable Soup",
+    "ingredients": [
+      "vegetable stock",
+      "onion",
+      "potato",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat vegetable stock in a pot.",
+      "Add chopped potato, onion, and the vegetable.",
+      "Simmer until all vegetables are tender; season to taste."
+    ],
+    "minutes": 35,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple quick vegetable soup featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Quick Vegetable Soup",
+    "ingredients": [
+      "vegetable stock",
+      "onion",
+      "potato",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Heat vegetable stock in a pot.",
+      "Add chopped potato, onion, and the vegetable.",
+      "Simmer until all vegetables are tender; season to taste."
+    ],
+    "minutes": 35,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple quick vegetable soup featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Mushroom Vegetable Couscous",
+    "ingredients": [
+      "couscous",
+      "vegetable stock",
+      "olive oil",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Prepare couscous with hot vegetable stock according to package instructions.",
+      "Sauté the chopped vegetable in olive oil until tender.",
+      "Fluff couscous and mix with vegetables."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable couscous featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Vegetable Couscous",
+    "ingredients": [
+      "couscous",
+      "vegetable stock",
+      "olive oil",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Prepare couscous with hot vegetable stock according to package instructions.",
+      "Sauté the chopped vegetable in olive oil until tender.",
+      "Fluff couscous and mix with vegetables."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable couscous featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Vegetable Couscous",
+    "ingredients": [
+      "couscous",
+      "vegetable stock",
+      "olive oil",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Prepare couscous with hot vegetable stock according to package instructions.",
+      "Sauté the chopped vegetable in olive oil until tender.",
+      "Fluff couscous and mix with vegetables."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable couscous featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Tomato Vegetable Couscous",
+    "ingredients": [
+      "couscous",
+      "vegetable stock",
+      "olive oil",
+      "tomato"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Prepare couscous with hot vegetable stock according to package instructions.",
+      "Sauté the chopped vegetable in olive oil until tender.",
+      "Fluff couscous and mix with vegetables."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable couscous featuring tomato. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Vegetable Couscous",
+    "ingredients": [
+      "couscous",
+      "vegetable stock",
+      "olive oil",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Prepare couscous with hot vegetable stock according to package instructions.",
+      "Sauté the chopped vegetable in olive oil until tender.",
+      "Fluff couscous and mix with vegetables."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable couscous featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Vegetable Couscous",
+    "ingredients": [
+      "couscous",
+      "vegetable stock",
+      "olive oil",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Prepare couscous with hot vegetable stock according to package instructions.",
+      "Sauté the chopped vegetable in olive oil until tender.",
+      "Fluff couscous and mix with vegetables."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable couscous featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Vegetable Couscous",
+    "ingredients": [
+      "couscous",
+      "vegetable stock",
+      "olive oil",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Prepare couscous with hot vegetable stock according to package instructions.",
+      "Sauté the chopped vegetable in olive oil until tender.",
+      "Fluff couscous and mix with vegetables."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable couscous featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Vegetable Couscous",
+    "ingredients": [
+      "couscous",
+      "vegetable stock",
+      "olive oil",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Prepare couscous with hot vegetable stock according to package instructions.",
+      "Sauté the chopped vegetable in olive oil until tender.",
+      "Fluff couscous and mix with vegetables."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable couscous featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Vegetable Couscous",
+    "ingredients": [
+      "couscous",
+      "vegetable stock",
+      "olive oil",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Prepare couscous with hot vegetable stock according to package instructions.",
+      "Sauté the chopped vegetable in olive oil until tender.",
+      "Fluff couscous and mix with vegetables."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable couscous featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Vegetable Couscous",
+    "ingredients": [
+      "couscous",
+      "vegetable stock",
+      "olive oil",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Prepare couscous with hot vegetable stock according to package instructions.",
+      "Sauté the chopped vegetable in olive oil until tender.",
+      "Fluff couscous and mix with vegetables."
+    ],
+    "minutes": 20,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable couscous featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Mushroom Savory Omelette",
+    "ingredients": [
+      "egg",
+      "butter",
+      "milk",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable until tender in a little butter.",
+      "Whisk eggs with milk and pour into the pan.",
+      "Cook until set, folding the omelette to serve."
+    ],
+    "minutes": 16,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple savory omelette featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Savory Omelette",
+    "ingredients": [
+      "egg",
+      "butter",
+      "milk",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable until tender in a little butter.",
+      "Whisk eggs with milk and pour into the pan.",
+      "Cook until set, folding the omelette to serve."
+    ],
+    "minutes": 16,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple savory omelette featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Savory Omelette",
+    "ingredients": [
+      "egg",
+      "butter",
+      "milk",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable until tender in a little butter.",
+      "Whisk eggs with milk and pour into the pan.",
+      "Cook until set, folding the omelette to serve."
+    ],
+    "minutes": 16,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple savory omelette featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Tomato Savory Omelette",
+    "ingredients": [
+      "egg",
+      "butter",
+      "milk",
+      "tomato"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable until tender in a little butter.",
+      "Whisk eggs with milk and pour into the pan.",
+      "Cook until set, folding the omelette to serve."
+    ],
+    "minutes": 16,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple savory omelette featuring tomato. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Savory Omelette",
+    "ingredients": [
+      "egg",
+      "butter",
+      "milk",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable until tender in a little butter.",
+      "Whisk eggs with milk and pour into the pan.",
+      "Cook until set, folding the omelette to serve."
+    ],
+    "minutes": 16,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple savory omelette featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Savory Omelette",
+    "ingredients": [
+      "egg",
+      "butter",
+      "milk",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable until tender in a little butter.",
+      "Whisk eggs with milk and pour into the pan.",
+      "Cook until set, folding the omelette to serve."
+    ],
+    "minutes": 16,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple savory omelette featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Savory Omelette",
+    "ingredients": [
+      "egg",
+      "butter",
+      "milk",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable until tender in a little butter.",
+      "Whisk eggs with milk and pour into the pan.",
+      "Cook until set, folding the omelette to serve."
+    ],
+    "minutes": 16,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple savory omelette featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Savory Omelette",
+    "ingredients": [
+      "egg",
+      "butter",
+      "milk",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable until tender in a little butter.",
+      "Whisk eggs with milk and pour into the pan.",
+      "Cook until set, folding the omelette to serve."
+    ],
+    "minutes": 16,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple savory omelette featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Savory Omelette",
+    "ingredients": [
+      "egg",
+      "butter",
+      "milk",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable until tender in a little butter.",
+      "Whisk eggs with milk and pour into the pan.",
+      "Cook until set, folding the omelette to serve."
+    ],
+    "minutes": 16,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple savory omelette featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Savory Omelette",
+    "ingredients": [
+      "egg",
+      "butter",
+      "milk",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable until tender in a little butter.",
+      "Whisk eggs with milk and pour into the pan.",
+      "Cook until set, folding the omelette to serve."
+    ],
+    "minutes": 16,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple savory omelette featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Mushroom Cheesy Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "cheese",
+      "oil",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable in a skillet until tender.",
+      "Place vegetable and cheese between two tortillas.",
+      "Toast lightly in a skillet until the cheese melts and the tortillas are golden."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "A simple cheesy quesadilla featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Cheesy Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "cheese",
+      "oil",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable in a skillet until tender.",
+      "Place vegetable and cheese between two tortillas.",
+      "Toast lightly in a skillet until the cheese melts and the tortillas are golden."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "A simple cheesy quesadilla featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Cheesy Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "cheese",
+      "oil",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable in a skillet until tender.",
+      "Place vegetable and cheese between two tortillas.",
+      "Toast lightly in a skillet until the cheese melts and the tortillas are golden."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "A simple cheesy quesadilla featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Tomato Cheesy Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "cheese",
+      "oil",
+      "tomato"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable in a skillet until tender.",
+      "Place vegetable and cheese between two tortillas.",
+      "Toast lightly in a skillet until the cheese melts and the tortillas are golden."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "A simple cheesy quesadilla featuring tomato. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Cheesy Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "cheese",
+      "oil",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable in a skillet until tender.",
+      "Place vegetable and cheese between two tortillas.",
+      "Toast lightly in a skillet until the cheese melts and the tortillas are golden."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "A simple cheesy quesadilla featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Cheesy Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "cheese",
+      "oil",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable in a skillet until tender.",
+      "Place vegetable and cheese between two tortillas.",
+      "Toast lightly in a skillet until the cheese melts and the tortillas are golden."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "A simple cheesy quesadilla featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Cheesy Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "cheese",
+      "oil",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable in a skillet until tender.",
+      "Place vegetable and cheese between two tortillas.",
+      "Toast lightly in a skillet until the cheese melts and the tortillas are golden."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "A simple cheesy quesadilla featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Cheesy Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "cheese",
+      "oil",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable in a skillet until tender.",
+      "Place vegetable and cheese between two tortillas.",
+      "Toast lightly in a skillet until the cheese melts and the tortillas are golden."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "A simple cheesy quesadilla featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Cheesy Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "cheese",
+      "oil",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable in a skillet until tender.",
+      "Place vegetable and cheese between two tortillas.",
+      "Toast lightly in a skillet until the cheese melts and the tortillas are golden."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "A simple cheesy quesadilla featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Cheesy Quesadilla",
+    "ingredients": [
+      "tortilla",
+      "cheese",
+      "oil",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook the chopped vegetable in a skillet until tender.",
+      "Place vegetable and cheese between two tortillas.",
+      "Toast lightly in a skillet until the cheese melts and the tortillas are golden."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian"
+    ],
+    "description": "A simple cheesy quesadilla featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Mushroom Chickpea Skillet",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "olive oil",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Sauté onion and chopped vegetable in olive oil until tender.",
+      "Add drained cooked chickpeas and heat through.",
+      "Serve warm."
+    ],
+    "minutes": 23,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple chickpea skillet featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Chickpea Skillet",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "olive oil",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Sauté onion and chopped vegetable in olive oil until tender.",
+      "Add drained cooked chickpeas and heat through.",
+      "Serve warm."
+    ],
+    "minutes": 23,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple chickpea skillet featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Chickpea Skillet",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "olive oil",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Sauté onion and chopped vegetable in olive oil until tender.",
+      "Add drained cooked chickpeas and heat through.",
+      "Serve warm."
+    ],
+    "minutes": 23,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple chickpea skillet featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Tomato Chickpea Skillet",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "olive oil",
+      "tomato"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Sauté onion and chopped vegetable in olive oil until tender.",
+      "Add drained cooked chickpeas and heat through.",
+      "Serve warm."
+    ],
+    "minutes": 23,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple chickpea skillet featuring tomato. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Chickpea Skillet",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "olive oil",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Sauté onion and chopped vegetable in olive oil until tender.",
+      "Add drained cooked chickpeas and heat through.",
+      "Serve warm."
+    ],
+    "minutes": 23,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple chickpea skillet featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Chickpea Skillet",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "olive oil",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Sauté onion and chopped vegetable in olive oil until tender.",
+      "Add drained cooked chickpeas and heat through.",
+      "Serve warm."
+    ],
+    "minutes": 23,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple chickpea skillet featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Chickpea Skillet",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "olive oil",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Sauté onion and chopped vegetable in olive oil until tender.",
+      "Add drained cooked chickpeas and heat through.",
+      "Serve warm."
+    ],
+    "minutes": 23,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple chickpea skillet featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Chickpea Skillet",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "olive oil",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Sauté onion and chopped vegetable in olive oil until tender.",
+      "Add drained cooked chickpeas and heat through.",
+      "Serve warm."
+    ],
+    "minutes": 23,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple chickpea skillet featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Chickpea Skillet",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "olive oil",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Sauté onion and chopped vegetable in olive oil until tender.",
+      "Add drained cooked chickpeas and heat through.",
+      "Serve warm."
+    ],
+    "minutes": 23,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple chickpea skillet featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Chickpea Skillet",
+    "ingredients": [
+      "chickpea",
+      "onion",
+      "olive oil",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Sauté onion and chopped vegetable in olive oil until tender.",
+      "Add drained cooked chickpeas and heat through.",
+      "Serve warm."
+    ],
+    "minutes": 23,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple chickpea skillet featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Mushroom Tomato Noodles",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "garlic",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook noodles following package directions.",
+      "Sauté the chopped vegetable and garlic until tender.",
+      "Add tomato and simmer briefly, then toss with noodles."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple tomato noodles featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Tomato Noodles",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "garlic",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook noodles following package directions.",
+      "Sauté the chopped vegetable and garlic until tender.",
+      "Add tomato and simmer briefly, then toss with noodles."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple tomato noodles featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Tomato Noodles",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "garlic",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook noodles following package directions.",
+      "Sauté the chopped vegetable and garlic until tender.",
+      "Add tomato and simmer briefly, then toss with noodles."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple tomato noodles featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Tomato Tomato Noodles",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "garlic"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook noodles following package directions.",
+      "Sauté the chopped vegetable and garlic until tender.",
+      "Add tomato and simmer briefly, then toss with noodles."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple tomato noodles featuring tomato. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Tomato Noodles",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "garlic",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook noodles following package directions.",
+      "Sauté the chopped vegetable and garlic until tender.",
+      "Add tomato and simmer briefly, then toss with noodles."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple tomato noodles featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Tomato Noodles",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "garlic",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook noodles following package directions.",
+      "Sauté the chopped vegetable and garlic until tender.",
+      "Add tomato and simmer briefly, then toss with noodles."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple tomato noodles featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Tomato Noodles",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "garlic",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook noodles following package directions.",
+      "Sauté the chopped vegetable and garlic until tender.",
+      "Add tomato and simmer briefly, then toss with noodles."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple tomato noodles featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Tomato Noodles",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "garlic",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook noodles following package directions.",
+      "Sauté the chopped vegetable and garlic until tender.",
+      "Add tomato and simmer briefly, then toss with noodles."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple tomato noodles featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Tomato Noodles",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "garlic",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook noodles following package directions.",
+      "Sauté the chopped vegetable and garlic until tender.",
+      "Add tomato and simmer briefly, then toss with noodles."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple tomato noodles featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Tomato Noodles",
+    "ingredients": [
+      "noodles",
+      "tomato",
+      "garlic",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook noodles following package directions.",
+      "Sauté the chopped vegetable and garlic until tender.",
+      "Add tomato and simmer briefly, then toss with noodles."
+    ],
+    "minutes": 25,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple tomato noodles featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Mushroom Vegetable Frittata",
+    "ingredients": [
+      "egg",
+      "milk",
+      "olive oil",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 190°C (375°F).",
+      "Cook the chopped vegetable in an oven-safe pan until tender.",
+      "Add beaten eggs and milk, then cook until set and lightly golden; bake if needed."
+    ],
+    "minutes": 24,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple vegetable frittata featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Vegetable Frittata",
+    "ingredients": [
+      "egg",
+      "milk",
+      "olive oil",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 190°C (375°F).",
+      "Cook the chopped vegetable in an oven-safe pan until tender.",
+      "Add beaten eggs and milk, then cook until set and lightly golden; bake if needed."
+    ],
+    "minutes": 24,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple vegetable frittata featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Vegetable Frittata",
+    "ingredients": [
+      "egg",
+      "milk",
+      "olive oil",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 190°C (375°F).",
+      "Cook the chopped vegetable in an oven-safe pan until tender.",
+      "Add beaten eggs and milk, then cook until set and lightly golden; bake if needed."
+    ],
+    "minutes": 24,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple vegetable frittata featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Tomato Vegetable Frittata",
+    "ingredients": [
+      "egg",
+      "milk",
+      "olive oil",
+      "tomato"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 190°C (375°F).",
+      "Cook the chopped vegetable in an oven-safe pan until tender.",
+      "Add beaten eggs and milk, then cook until set and lightly golden; bake if needed."
+    ],
+    "minutes": 24,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple vegetable frittata featuring tomato. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Vegetable Frittata",
+    "ingredients": [
+      "egg",
+      "milk",
+      "olive oil",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 190°C (375°F).",
+      "Cook the chopped vegetable in an oven-safe pan until tender.",
+      "Add beaten eggs and milk, then cook until set and lightly golden; bake if needed."
+    ],
+    "minutes": 24,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple vegetable frittata featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Vegetable Frittata",
+    "ingredients": [
+      "egg",
+      "milk",
+      "olive oil",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 190°C (375°F).",
+      "Cook the chopped vegetable in an oven-safe pan until tender.",
+      "Add beaten eggs and milk, then cook until set and lightly golden; bake if needed."
+    ],
+    "minutes": 24,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple vegetable frittata featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Vegetable Frittata",
+    "ingredients": [
+      "egg",
+      "milk",
+      "olive oil",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 190°C (375°F).",
+      "Cook the chopped vegetable in an oven-safe pan until tender.",
+      "Add beaten eggs and milk, then cook until set and lightly golden; bake if needed."
+    ],
+    "minutes": 24,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple vegetable frittata featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Vegetable Frittata",
+    "ingredients": [
+      "egg",
+      "milk",
+      "olive oil",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 190°C (375°F).",
+      "Cook the chopped vegetable in an oven-safe pan until tender.",
+      "Add beaten eggs and milk, then cook until set and lightly golden; bake if needed."
+    ],
+    "minutes": 24,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple vegetable frittata featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Vegetable Frittata",
+    "ingredients": [
+      "egg",
+      "milk",
+      "olive oil",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 190°C (375°F).",
+      "Cook the chopped vegetable in an oven-safe pan until tender.",
+      "Add beaten eggs and milk, then cook until set and lightly golden; bake if needed."
+    ],
+    "minutes": 24,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple vegetable frittata featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Vegetable Frittata",
+    "ingredients": [
+      "egg",
+      "milk",
+      "olive oil",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Preheat the oven to 190°C (375°F).",
+      "Cook the chopped vegetable in an oven-safe pan until tender.",
+      "Add beaten eggs and milk, then cook until set and lightly golden; bake if needed."
+    ],
+    "minutes": 24,
+    "tags": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "description": "A simple vegetable frittata featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Mushroom Lentil Bowl",
+    "ingredients": [
+      "lentil",
+      "onion",
+      "olive oil",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook lentils until tender following package directions (or use canned cooked lentils).",
+      "Sauté the chopped vegetable and onion in olive oil until tender.",
+      "Combine with the cooked lentils and serve warm."
+    ],
+    "minutes": 30,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple lentil bowl featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Lentil Bowl",
+    "ingredients": [
+      "lentil",
+      "onion",
+      "olive oil",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook lentils until tender following package directions (or use canned cooked lentils).",
+      "Sauté the chopped vegetable and onion in olive oil until tender.",
+      "Combine with the cooked lentils and serve warm."
+    ],
+    "minutes": 30,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple lentil bowl featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Lentil Bowl",
+    "ingredients": [
+      "lentil",
+      "onion",
+      "olive oil",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook lentils until tender following package directions (or use canned cooked lentils).",
+      "Sauté the chopped vegetable and onion in olive oil until tender.",
+      "Combine with the cooked lentils and serve warm."
+    ],
+    "minutes": 30,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple lentil bowl featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Tomato Lentil Bowl",
+    "ingredients": [
+      "lentil",
+      "onion",
+      "olive oil",
+      "tomato"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook lentils until tender following package directions (or use canned cooked lentils).",
+      "Sauté the chopped vegetable and onion in olive oil until tender.",
+      "Combine with the cooked lentils and serve warm."
+    ],
+    "minutes": 30,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple lentil bowl featuring tomato. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Lentil Bowl",
+    "ingredients": [
+      "lentil",
+      "onion",
+      "olive oil",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook lentils until tender following package directions (or use canned cooked lentils).",
+      "Sauté the chopped vegetable and onion in olive oil until tender.",
+      "Combine with the cooked lentils and serve warm."
+    ],
+    "minutes": 30,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple lentil bowl featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Lentil Bowl",
+    "ingredients": [
+      "lentil",
+      "onion",
+      "olive oil",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook lentils until tender following package directions (or use canned cooked lentils).",
+      "Sauté the chopped vegetable and onion in olive oil until tender.",
+      "Combine with the cooked lentils and serve warm."
+    ],
+    "minutes": 30,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple lentil bowl featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Lentil Bowl",
+    "ingredients": [
+      "lentil",
+      "onion",
+      "olive oil",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook lentils until tender following package directions (or use canned cooked lentils).",
+      "Sauté the chopped vegetable and onion in olive oil until tender.",
+      "Combine with the cooked lentils and serve warm."
+    ],
+    "minutes": 30,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple lentil bowl featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Lentil Bowl",
+    "ingredients": [
+      "lentil",
+      "onion",
+      "olive oil",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook lentils until tender following package directions (or use canned cooked lentils).",
+      "Sauté the chopped vegetable and onion in olive oil until tender.",
+      "Combine with the cooked lentils and serve warm."
+    ],
+    "minutes": 30,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple lentil bowl featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Lentil Bowl",
+    "ingredients": [
+      "lentil",
+      "onion",
+      "olive oil",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook lentils until tender following package directions (or use canned cooked lentils).",
+      "Sauté the chopped vegetable and onion in olive oil until tender.",
+      "Combine with the cooked lentils and serve warm."
+    ],
+    "minutes": 30,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple lentil bowl featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Lentil Bowl",
+    "ingredients": [
+      "lentil",
+      "onion",
+      "olive oil",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Cook lentils until tender following package directions (or use canned cooked lentils).",
+      "Sauté the chopped vegetable and onion in olive oil until tender.",
+      "Combine with the cooked lentils and serve warm."
+    ],
+    "minutes": 30,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "description": "A simple lentil bowl featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Mushroom Vegetable Toast",
+    "ingredients": [
+      "bread",
+      "olive oil",
+      "garlic",
+      "mushroom"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Sauté the chopped vegetable with garlic in olive oil until tender.",
+      "Spoon the cooked vegetables onto toast and serve."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable toast featuring mushroom. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Spinach Vegetable Toast",
+    "ingredients": [
+      "bread",
+      "olive oil",
+      "garlic",
+      "spinach"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Sauté the chopped vegetable with garlic in olive oil until tender.",
+      "Spoon the cooked vegetables onto toast and serve."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable toast featuring spinach. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Zucchini Vegetable Toast",
+    "ingredients": [
+      "bread",
+      "olive oil",
+      "garlic",
+      "zucchini"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Sauté the chopped vegetable with garlic in olive oil until tender.",
+      "Spoon the cooked vegetables onto toast and serve."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable toast featuring zucchini. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Tomato Vegetable Toast",
+    "ingredients": [
+      "bread",
+      "olive oil",
+      "garlic",
+      "tomato"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Sauté the chopped vegetable with garlic in olive oil until tender.",
+      "Spoon the cooked vegetables onto toast and serve."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable toast featuring tomato. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Bell Pepper Vegetable Toast",
+    "ingredients": [
+      "bread",
+      "olive oil",
+      "garlic",
+      "bell pepper"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Sauté the chopped vegetable with garlic in olive oil until tender.",
+      "Spoon the cooked vegetables onto toast and serve."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable toast featuring bell pepper. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Broccoli Vegetable Toast",
+    "ingredients": [
+      "bread",
+      "olive oil",
+      "garlic",
+      "broccoli"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Sauté the chopped vegetable with garlic in olive oil until tender.",
+      "Spoon the cooked vegetables onto toast and serve."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable toast featuring broccoli. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Carrot Vegetable Toast",
+    "ingredients": [
+      "bread",
+      "olive oil",
+      "garlic",
+      "carrot"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Sauté the chopped vegetable with garlic in olive oil until tender.",
+      "Spoon the cooked vegetables onto toast and serve."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable toast featuring carrot. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Pea Vegetable Toast",
+    "ingredients": [
+      "bread",
+      "olive oil",
+      "garlic",
+      "peas"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Sauté the chopped vegetable with garlic in olive oil until tender.",
+      "Spoon the cooked vegetables onto toast and serve."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable toast featuring peas. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Eggplant Vegetable Toast",
+    "ingredients": [
+      "bread",
+      "olive oil",
+      "garlic",
+      "eggplant"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Sauté the chopped vegetable with garlic in olive oil until tender.",
+      "Spoon the cooked vegetables onto toast and serve."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable toast featuring eggplant. A template-derived recipe idea; verify cooking times and dietary suitability."
+  },
+  {
+    "name": "Cauliflower Vegetable Toast",
+    "ingredients": [
+      "bread",
+      "olive oil",
+      "garlic",
+      "cauliflower"
+    ],
+    "optional": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Toast bread until golden.",
+      "Sauté the chopped vegetable with garlic in olive oil until tender.",
+      "Spoon the cooked vegetables onto toast and serve."
+    ],
+    "minutes": 15,
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "description": "A simple vegetable toast featuring cauliflower. A template-derived recipe idea; verify cooking times and dietary suitability."
   }
 ]

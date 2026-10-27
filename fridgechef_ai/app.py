@@ -134,7 +134,7 @@ with find_tab:
             diet,
             max_missing,
             max_minutes,
-            limit=40,
+            limit=24,
             pantry_staples=pantry,
             only_ready=only_ready,
             exclude=st.session_state.avoid,
@@ -196,7 +196,7 @@ with find_tab:
 
             if almost:
                 st.markdown('### 🛒 Close matches')
-                st.caption('These recipes are still good ideas, but you will need a few extra ingredients.')
+                st.caption('These recipes are still good ideas, but you will need a few extra ingredients. Some of the expanded catalog is template-derived; check steps and ingredient quantities before cooking.')
                 for recipe in almost:
                     img_col, info_col = st.columns([1.15, 1.85])
                     with img_col:
@@ -236,8 +236,8 @@ with find_tab:
                     st.divider()
 
 with create_tab:
-    st.subheader('🧠 Generate a brand-new recipe')
-    st.write('Create a personalized recipe with an online AI model. Your available ingredients and preferences are used to build the recipe.')
+    st.subheader('🧠 Optional generative AI — credentials required')
+    st.info('The main recipe finder works without payment or API credentials. Creating entirely new recipes requires a separately configured online AI provider and a valid API key. This is an optional experimental feature, not required to use FridgeChef.')
     import os
     try:
         api_key = st.secrets.get('OPENAI_API_KEY', os.environ.get('OPENAI_API_KEY', ''))
@@ -245,7 +245,7 @@ with create_tab:
         api_key = os.environ.get('OPENAI_API_KEY', '')
     api_key = str(api_key).strip()
     if api_key:
-        st.success('AI recipe generation is connected and ready to use.')
+        st.info('AI credentials detected. You can try recipe generation; provider access and billing must also be enabled.')
         if st.button('🪄 Generate my recipe', type='primary', key='generate_cloud'):
             st.session_state.generated = None
             with st.spinner('Creating your recipe...'):
@@ -261,7 +261,7 @@ with create_tab:
                 except RecipeGenerationError as err:
                     st.error(str(err))
     else:
-        st.warning('Online AI is not configured. The recipe finder still works, but generating new recipes requires an API key in Streamlit Cloud → App settings → Secrets.')
+        st.info('AI generation is not enabled on this deployment. Use Discover recipes to browse the expanded catalog, or configure OPENAI_API_KEY in Streamlit Cloud Secrets to unlock experimental generation.')
         st.button('🪄 Generate my recipe', disabled=True, key='generate_cloud_disabled')
 
     if st.session_state.generated:
@@ -330,4 +330,4 @@ with saved_tab:
             st.success('You already have everything needed for your saved recipes!')
 
 st.divider()
-st.caption('FridgeChef AI is an educational proof-of-concept. Recipe recommendations come from a curated recipe catalog, and optional recipe generation uses a local language model. Always verify allergens, dietary needs, quantities and cooking safety.')
+st.caption('FridgeChef AI is an educational proof-of-concept. Recipe recommendations come from a catalog combining an original curated set with template-derived variations, and optional recipe generation uses a local language model. Always verify allergens, dietary needs, quantities and cooking safety.')
